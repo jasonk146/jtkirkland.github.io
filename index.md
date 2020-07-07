@@ -1,8 +1,14 @@
 ## Jason Kirkland | jtkirkland.net
 
-You can use the [editor on GitHub](https://github.com/jasonk146/jtkirkland.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my space on the web.  To check out more of my content, choose below.
+  
+[Blog:](https://jtkirkland146.wordpress.com/)
+  
+[Twitter:](https://twitter.com/jasonk146)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linkedin:](https://www.linkedin.com/in/jason-kirkland-4553781/)
+
+Resume:
 
 ### Markdown
 
@@ -26,7 +32,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
